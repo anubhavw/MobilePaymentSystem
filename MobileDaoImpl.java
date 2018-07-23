@@ -5,8 +5,8 @@ import com.del.util.Message;
 
 public class MobileDaoImpl implements MobileDao {
 	private double balance;	
-	private String login="9176145704";
-	private String password="Angadji.123";
+	private String login="9945212";
+	private String password="Anubh123";
 	@Override
 	public void depositAmount(double amount,String mode) {
 		balance =balance-amount;
